@@ -52,10 +52,8 @@ The project was developed as an exploratory robustness and explainability study 
 
 # Dataset
 
-This project uses thoracic CT imaging derived from the publicly available:
+This project uses Thoracic CT data derived from publicly available LIDC-IDRI imaging collections
 
-- LIDC-IDRI dataset
-- LUNA16 subset
 
 The preprocessing pipeline reconstructs fixed-size volumetric patches from CT slices for proof-of-concept volumetric analysis.
 
