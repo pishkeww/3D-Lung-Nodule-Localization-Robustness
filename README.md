@@ -4,7 +4,7 @@ Research-oriented deep learning pipeline for pulmonary nodule classification, vo
 
 ## Features
 
-* 3D pulmonary nodule classification
+* 2D pulmonary nodule classification
 * Volumetric CT preprocessing
 * Grad-CAM explainability
 * Gaussian perturbation robustness analysis
